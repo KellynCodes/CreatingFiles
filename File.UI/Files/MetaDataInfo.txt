@@ -1,0 +1,37 @@
+DisplayUser
+An interface for displaying list of users in the list.
+Docs
+Class that holds user data.
+.ctor
+This is a default constructor.
+.ctor
+This contructor sets the properties and the value entered in the parameter of the contructor
+This constructor takens in user information [Id, Name, Address, Gender, Religion and returns
+User information accordingly as a string.
+ID
+This is the id of user.
+Name
+This properties is the Name of user.
+Address
+This properties is the Address of user
+Gender
+This properties is the gender of user
+Religion
+This properties is the country where the user comes from
+DisplayUser
+This method adds the new user to the list and also display the user on the console.
+MetaData
+This class holds all the implementation of getting information about the metat data.
+GetDocs
+This method return the all the description and information in the assemblies illustrated by the default attribute.
+.ctor
+Attribute Constructor
+It accepts three overloads. [description, input and output]
+It returns the value of each properties.
+Description
+Attribute Description property.
+Input
+Attribute Input property
+Output
+Attribute output property.
+

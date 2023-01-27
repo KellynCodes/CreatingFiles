@@ -1,0 +1,180 @@
+[
+  {
+    "Name": "Docs",
+    "Description": "Class that holds user data.",
+    "Constructor": null,
+    "Properties": [],
+    "Methods": [
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "TypeId",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "TypeId",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "TypeId",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Name",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Description",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Constructor",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Properties",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Methods",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Name",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Description",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Input",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Output",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Name",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Description",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "DisplayUser",
+        "Description": "An interface for displaying list of users in the list."
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Docs",
+        "Description": "Class that holds user data."
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": ".ctor",
+        "Description": "This is a default constructor."
+      },
+      {
+        "Input": "This constructor takens in user information [Id, Name, Address, Gender, Religion and returns",
+        "Output": "User information accordingly as a string.",
+        "Name": ".ctor",
+        "Description": "This contructor sets the properties and the value entered in the parameter of the contructor"
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "ID",
+        "Description": "This is the id of user."
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Name",
+        "Description": "This properties is the Name of user."
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Address",
+        "Description": "This properties is the Address of user"
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Gender",
+        "Description": "This properties is the gender of user"
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "Religion",
+        "Description": "This properties is the country where the user comes from"
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "DisplayUser",
+        "Description": "This method adds the new user to the list and also display the user on the console."
+      }
+    ]
+  },
+  {
+    "Name": "MetaData",
+    "Description": "This class holds all the implementation of getting information about the metat data.",
+    "Constructor": null,
+    "Properties": [],
+    "Methods": [
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "MetaData",
+        "Description": "This class holds all the implementation of getting information about the metat data."
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "ObjectGraph",
+        "Description": ""
+      },
+      {
+        "Input": "",
+        "Output": "",
+        "Name": "GetDocs",
+        "Description": "This method return the all the description and information in the assemblies illustrated by the default attribute."
+      }
+    ]
+  }
+]

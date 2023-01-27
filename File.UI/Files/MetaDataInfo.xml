@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjectData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ObjectData>
+    <Name>Docs</Name>
+    <Description>Class that holds user data.</Description>
+    <Properties />
+    <Methods>
+      <Methods>
+        <Name>TypeId</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>TypeId</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>TypeId</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Name</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Description</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Constructor</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Properties</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Methods</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Name</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Description</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Input</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Output</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Name</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Description</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>DisplayUser</Name>
+        <Description>An interface for displaying list of users in the list.</Description>
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Docs</Name>
+        <Description>Class that holds user data.</Description>
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>.ctor</Name>
+        <Description>This is a default constructor.</Description>
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>.ctor</Name>
+        <Description>This contructor sets the properties and the value entered in the parameter of the contructor</Description>
+        <Input>This constructor takens in user information [Id, Name, Address, Gender, Religion and returns</Input>
+        <Output>User information accordingly as a string.</Output>
+      </Methods>
+      <Methods>
+        <Name>ID</Name>
+        <Description>This is the id of user.</Description>
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Name</Name>
+        <Description>This properties is the Name of user.</Description>
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Address</Name>
+        <Description>This properties is the Address of user</Description>
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Gender</Name>
+        <Description>This properties is the gender of user</Description>
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>Religion</Name>
+        <Description>This properties is the country where the user comes from</Description>
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>DisplayUser</Name>
+        <Description>This method adds the new user to the list and also display the user on the console.</Description>
+        <Input />
+        <Output />
+      </Methods>
+    </Methods>
+  </ObjectData>
+  <ObjectData>
+    <Name>MetaData</Name>
+    <Description>This class holds all the implementation of getting information about the metat data.</Description>
+    <Properties />
+    <Methods>
+      <Methods>
+        <Name>MetaData</Name>
+        <Description>This class holds all the implementation of getting information about the metat data.</Description>
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>ObjectGraph</Name>
+        <Description />
+        <Input />
+        <Output />
+      </Methods>
+      <Methods>
+        <Name>GetDocs</Name>
+        <Description>This method return the all the description and information in the assemblies illustrated by the default attribute.</Description>
+        <Input />
+        <Output />
+      </Methods>
+    </Methods>
+  </ObjectData>
+</ArrayOfObjectData>
